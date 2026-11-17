@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ma.somadir.reclamations",
+    "sha256_cert_fingerprints": ["CD:48:EA:02:67:86:6A:FB:B4:1D:A5:5C:2F:DD:A7:3A:30:0A:6F:E1:9A:F9:8F:B8:BF:21:03:B5:7E:E9:4B:57"]
+  }
+}]
